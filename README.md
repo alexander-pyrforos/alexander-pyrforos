@@ -2,7 +2,7 @@
 
 **Data & Automation Engineer** — ERP · data pipelines · LLM workflows · self-hosted infrastructure
 
-Prague, Czechia · [pyrforos.xyz](https://pyrforos.xyz) · [LinkedIn](#) <!-- TODO: реальный URL от владельца -->
+Prague, Czechia · [pyrforos.xyz](https://pyrforos.xyz) · [LinkedIn](https://www.linkedin.com/in/alexander-porokhnia-4378343a2/)
 
 ---
 
