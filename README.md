@@ -1,4 +1,4 @@
-# Oleksandr Pyrforos · pyrforos
+# Alexander Pyrforos · pyrforos
 
 **Data & Automation Engineer** — ERP · data pipelines · LLM workflows · self-hosted infrastructure
 
@@ -14,7 +14,7 @@ IT and data team** of an international luxury-goods trading business.
 
 Built from scratch in production: a custom **ERP (FastAPI + PostgreSQL)** with
 competitive-intelligence scraping and KPI reporting, an **LLM pipeline**
-(fine-tuned Qwen via Unsloth → GGUF → Ollama) extracting structured data from
+(fine-tuned Qwen via Unsloth → GGUF → llama.cpp/LM Studio) extracting structured data from
 live supplier messages, and distributed scraping/solve infrastructure.
 
 Mission: **automate the routine, minimize the human factor.**
@@ -33,7 +33,7 @@ Mission: **automate the routine, minimize the human factor.**
 
 ## Stack
 
-`Python` `FastAPI` `PostgreSQL` `LangGraph` `Ollama` `Unsloth fine-tuning` `Playwright` `Chrome extensions` `Linux/Debian` `Docker` `VoIP/Asterisk` `Matrix/Nextcloud` `GA4·GSC·GTM`
+`Python` `FastAPI` `PostgreSQL` `LangGraph` `llama.cpp·LM Studio` `Unsloth fine-tuning` `Playwright` `Chrome extensions` `Linux/Debian` `Docker` `VoIP/Asterisk` `Matrix/Nextcloud` `GA4·GSC·GTM`
 
 ## Contact
 
